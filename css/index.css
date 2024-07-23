@@ -1,0 +1,43 @@
+body {
+  max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+font-family: 'Raleway', sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+  background-color:hsl(55, 24%, 91%);
+  color: black;
+ }
+
+
+
+h1 {
+text-align: center;
+}
+a {
+  text-decoration: none;
+}
+
+
+
+.right {
+  float: right;
+  margin: 0 0 1em 1em;
+  width: 300px;
+  height: 200px;
+}
+
+
+
+.left {
+  float: left;
+  margin: 0 1em 1em 0;
+  width: 300px;
+  height: 210px;
+}
+.photo{
+text-align: center;
+}
+

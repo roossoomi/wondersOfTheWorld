@@ -1,0 +1,78 @@
+body {
+  max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+font-family: 'Raleway', sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+  background-color:#DCDCDC;
+ }
+
+.intro {
+  width: 100%;
+  height: 80vh;
+  background: url("../img/glav.jpg") center;
+  background-size: cover;
+}
+ .navigate {
+   font-size: 20px;
+  width: auto;
+  height: 80ph;
+   background-color: #f7f7f7;
+   color: white;
+   text-align: center;
+ }
+
+ a { text-decoration: none;}
+
+ .right {
+   float: right;
+   margin: 0 0 1em 1em;
+   width: 300px;
+   height: 200px;
+ }
+
+ .left {
+   float: left;
+   margin: 0 1em 1em 0;
+   width: 300px;
+   height: 210px;
+ }
+
+ table {
+	width: 100%;
+	border: none;
+	margin-bottom: 20px;
+}
+table thead th {
+	font-weight: bold;
+	text-align: left;
+	border: none;
+	padding: 10px 15px;
+	background: #d8d8d8;
+	font-size: 14px;
+}
+table thead tr th:first-child {
+	border-radius: 8px 0 0 8px;
+}
+table thead tr th:last-child {
+	border-radius: 0 8px 8px 0;
+}
+table tbody td {
+	text-align: left;
+	border: none;
+	padding: 10px 15px;
+	font-size: 14px;
+	vertical-align: top;
+}
+table tbody tr:nth-child(even){
+	background: #f3f3f3;
+}
+table tbody tr td:first-child {
+	border-radius: 8px 0 0 8px;
+}
+table tbody tr td:last-child {
+	border-radius: 0 8px 8px 0;
+}

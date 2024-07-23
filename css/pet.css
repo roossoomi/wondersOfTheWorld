@@ -1,0 +1,12 @@
+.intro {
+  width: 100%;
+  height: 28vh;
+  background: url("../img/pt9.jpg") center;
+  background-size: cover;
+}
+
+.navigate{
+width: 500px;
+height:290px;
+background-color:#f0b695;
+}
